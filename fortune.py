@@ -1,7 +1,6 @@
  
 def main():
-    # Welcome message with your name and admission number
-    # Replace "YOUR NAME" and "YOUR_ADMISSION_NUMBER" with your actual details
+
     print("🔮 Welcome to Nakul's Fortune Teller (21je0477)🔮")
     
     # Prompt for mood
